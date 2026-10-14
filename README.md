@@ -1,37 +1,47 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<img src="./assets/profile-banner.svg" width="100%" alt="Pedro — Mecatrônica, código e criatividade. Da ideia ao protótipo. Do bug à resenha." />
 
-###
+<p align="center">
+  <strong>⚙️ Mecatrônico &nbsp; · &nbsp; 💻 Dev &nbsp; · &nbsp; ☕ De resenha às vezes</strong>
+</p>
+<p align="center">
+  <a href="#-sobre-mim">Sobre mim</a> &nbsp; / &nbsp;
+  <a href="#-minha-caixa-de-ferramentas">Ferramentas</a> &nbsp; / &nbsp;
+  <a href="https://paraujozr.github.io/voa-porco-da-silva/">Bora jogar?</a>
+</p>
 
-<p align="left">My name is Pedro and I'm curious about programming.</p>
+## 👋 Sobre mim
 
-###
+Sou o **Pedro**, um mecatrônico que também curte escrever código e dar forma às ideias. Gosto de conectar o mundo físico ao digital: pensar no projeto, desenhar o protótipo e descobrir como fazer funcionar.
 
-<h2 align="left">About me</h2>
+Por aqui tem aprendizado, experimentos, desenvolvimento web e espaço para umas ideias fora do roteiro. Afinal, nem todo projeto precisa começar sério — às vezes começa com **“e se um porco voasse?”** 🐷
 
-###
+- ⚙️ **Mecatrônica e prototipagem** fazem parte do meu jeito de criar.
+- 💻 Exploro **Python, JavaScript e desenvolvimento web**.
+- 🎨 Também gosto da parte visual: **interfaces, design e modelagem 3D**.
+- 🌱 Aprendendo na prática, um projeto e um bug de cada vez.
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Python<br>🎯 Goals: Be a good Python programmer<br>⚙️ mechatronics engineering</p>
+## 🧰 Minha caixa de ferramentas
 
-###
+| Código & web | Design & prototipagem |
+| :--- | :--- |
+| Python · JavaScript | Figma |
+| HTML · CSS | SolidWorks · SketchUp |
 
-<h2 align="left">I code with</h2>
+<sub>Ferramentas para experimentar, construir e continuar aprendendo.</sub>
 
-###
+## 🐷 Um pouco de código, um pouco de resenha
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
+### Voa Porco da Silva · Edição Brasil 3D
 
-###
+Um jogo de reflexos com personagens trabalhadores, asinhas e obstáculos pelo caminho. Feito para rodar direto no navegador, com um toque bem brasileiro.
+
+**HTML · CSS · JavaScript · Three.js**
+
+**[🎮 Jogar agora](https://paraujozr.github.io/voa-porco-da-silva/)** &nbsp; · &nbsp; **[📂 Explorar o código](https://github.com/paraujozr/voa-porco-da-silva)**
+
+---
+
+<p align="center">
+  <strong>Ideias na cabeça. Código no editor. Resenha no intervalo.</strong><br/>
+  <sub>Bem-vindo ao meu cantinho no GitHub. Fique à vontade para explorar os projetos. 🤝</sub>
+</p>
